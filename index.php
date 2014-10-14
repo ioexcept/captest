@@ -6,6 +6,6 @@
 Yes, yes, yes ... I work when I'm not busy<br>
 <?php print date("m/d/Y"); ?>
 <br>
-I am version 2.6
+I am version 2.7
 </body>
 </html>
