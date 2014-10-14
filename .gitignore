@@ -12,6 +12,7 @@ config/**/*
 #######################
 conf/instance.xml
 AwsCredentials.properties
+Capfile
 
 # Compiled source #
 ###################
